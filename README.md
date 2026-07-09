@@ -83,3 +83,22 @@ The website was tested for the following:
 ## Notes
 
 This project does not use JavaScript. All interactivity was implemented using PHP, HTML, and CSS in accordance with the project requirements.
+
+---
+
+## Project Development History
+
+1. Planned the SkillSprint project topic, target audience, page structure, and required features.
+2. Created the main project folder and organized the site into PHP pages, includes, CSS, and images.
+3. Built shared header, navigation, and footer components using PHP includes.
+4. Added the main website pages: Home, Career Tracks, Skills Library, Career Planner, and About.
+5. Created PHP arrays to store career track data, including titles, descriptions, skills, salary ranges, difficulty levels, and best-fit users.
+6. Used foreach loops to dynamically generate the Career Tracks page and Skills Library.
+7. Built the Career Planner form using POST.
+8. Added server-side validation, error messages, and sticky form inputs.
+9. Added a personalized roadmap that displays career details based on the user’s selections.
+10. Added PHP sessions so the Home page can display a personalized welcome message.
+11. Styled the site with CSS Grid, Flexbox, responsive breakpoints, and CSS variables.
+12. Added a CSS-only FAQ accordion on the About page.
+13. Added comments, README documentation, AI disclosure, and final QA testing.
+14. Validated the HTML and CSS and corrected issues before submission.
